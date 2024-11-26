@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Javascript and React.
 - 👯 I’m looking to collaborate on any project to do with Python.
 - 🤔 I’m looking for help with computational complexity, DSA and DDA.
-- 💬 Ask me about technology and personal development
+- 💬 Ask me about anying to do with tech, personal development, 
 - ⚡ Fun fact: I am an AIESECer
