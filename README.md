@@ -1,4 +1,4 @@
-### Hello there 💙
+### Hello, Habari 💙
 
 - 🔭 I’m currently working on modelling human thought patterns using AI techniques (looking for collaborators)
 - 🌱 I’m currently learning Javascript, React, Deep Learning, Robotics and TinyML.
